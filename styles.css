@@ -1,0 +1,48 @@
+/*
+
+MIU Project 1
+James Floyd II 
+March 30, 2012
+
+*/
+
+h1{ 
+	text-align: center;
+	font-style: italic;
+	outline: red solid;
+	color: white;
+	padding: 10px;
+	margin: 50px;
+}
+
+li{
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+}
+
+body{
+	background-Color: green;
+}
+
+legend{
+	color: red;	
+	font-weight: bold;
+}
+
+label{
+	color: red;
+	opacity:0.85;
+}
+
+input{
+	color: red;
+}
+
+a{
+	font-weight: bold;	
+}
+
+nav{
+	color: red;
+	text-indent: 50px;
+}
