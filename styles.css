@@ -1,18 +1,23 @@
 /*
 
-MIU Project 1
+MIU Project 1 
 James Floyd II 
 March 30, 2012
 
 */
 
-h1{ 
+h1{
+	color:white;
+	font-style: italic;
+}
+
+h2{ 
 	text-align: center;
 	font-style: italic;
 	outline: red solid;
 	color: white;
-	padding: 10px;
-	margin: 50px;
+	padding: 20px;
+	margin: 20px;
 }
 
 li{
@@ -45,4 +50,8 @@ a{
 nav{
 	color: red;
 	text-indent: 50px;
+}
+
+p{ 
+	color: white;
 }
